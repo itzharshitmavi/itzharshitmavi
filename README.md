@@ -1,10 +1,10 @@
-🧾 Executive Academic Profile
+# 🧾 Executive Academic Profile
 
 I am a B.Tech Computer Science student and professional software developer with strong academic grounding and hands‑on experience in designing, developing, and maintaining large‑scale web applications, ERP systems, and financial software. My primary expertise lies in Django‑based backend systems, React‑driven modern dashboards, and database‑intensive applications that demand performance, security, and scalability.
 
 I approach software engineering with an academic mindset combined with real‑world pragmatism. I value clean architecture, well‑documented codebases, and systems that scale gracefully under load. I enjoy deep debugging, optimization, and refactoring, often revisiting modules to improve clarity, performance, and extensibility.
 
-🧠 Engineering Philosophy
+# 🧠 Engineering Philosophy
 
 Clean architecture over quick hacks
 
