@@ -1,3 +1,23 @@
+🧾 Executive Academic Profile
+
+I am a B.Tech Computer Science student and professional software developer with strong academic grounding and hands‑on experience in designing, developing, and maintaining large‑scale web applications, ERP systems, and financial software. My primary expertise lies in Django‑based backend systems, React‑driven modern dashboards, and database‑intensive applications that demand performance, security, and scalability.
+
+I approach software engineering with an academic mindset combined with real‑world pragmatism. I value clean architecture, well‑documented codebases, and systems that scale gracefully under load. I enjoy deep debugging, optimization, and refactoring, often revisiting modules to improve clarity, performance, and extensibility.
+
+🧠 Engineering Philosophy
+
+Clean architecture over quick hacks
+
+Explicit logic > hidden magic
+
+Performance through understanding, not guesswork
+
+Debug deeply, refactor confidently
+
+Documentation is part of engineering
+
+“Good systems are not just built — they are maintained, explained, and evolved.”
+
 # 💫 About Me:
 Currently working on a Django-based college ERP system.<br><br>Looking to collaborate on web applications, especially educational management systems and financial software.<br><br>Looking for help with advanced database optimization, production deployment, and scaling Django applications.<br><br>Currently learning advanced Django patterns, REST API design, and better UI/UX for complex dashboards, advance React.<br><br>Ask me about Django ORM, authentication and permissions, and JavaFX desktop apps, React apps.​<br><br>Fun fact: Can spend hours debugging a single bug, then immediately refactor the whole module for fun.<br>
 
@@ -15,8 +35,20 @@ Currently working on a Django-based college ERP system.<br><br>Looking to collab
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itzharshitmavi&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=itzharshitmavi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 📬 Let’s Work Together
+
+You can reach out or collaborate with me through the following channels:
+
+📧 Email: itzharshitmavi@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/itzharshitmavi
+
+🧑‍💻 GitHub: https://github.com/itzharshitmavi
+
+📷 Instagram: https://instagram.com/itzharshitmavi
+
+🐦 X (Twitter): https://x.com/itzharshitmavi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itzharshitmavi&icon=0&color=0)](https://visitcount.itsvg.in)
