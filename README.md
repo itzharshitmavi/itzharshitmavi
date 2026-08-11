@@ -34,7 +34,7 @@ I am a Computer Science and Engineering student with a strong interest in softwa
 
 <a href="http://www.github.com/itzharshitmavi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itzharshitmavi&stroke=0f172a&background=000000&ring=ffffff&fire=ffffff&currStreakNum=0f172a&currStreakLabel=ffffff&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
-<a href="https://github.com/itzharshitmavi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzharshitmavi&langs_count=10&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/itzharshitmavi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzharshitmavi&langs_count=2&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
