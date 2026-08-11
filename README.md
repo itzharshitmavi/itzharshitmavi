@@ -38,11 +38,11 @@ I am a Computer Science and Engineering student with a strong interest in softwa
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/itzharshitmavi/https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/itzharshitmavi/https://github.com/itzharshitmavi/College-ERP" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/College-ERP&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/itzharshitmavi/College-ERP" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/College-ERP&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/itzharshitmavi/https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
