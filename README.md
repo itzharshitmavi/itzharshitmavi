@@ -1,52 +1,248 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Harshit Mavi
 =====================================================================================================================================
 
-Full-Stack Developer
+### 🚀 Full-Stack Developer | AI Enthusiast | BTech CSE Student
 --------------------
 
-I am a Computer Science and Engineering student with a strong interest in software development, full-stack development, artificial intelligence, and emerging technologies. I enjoy transforming ideas into practical software solutions and believe that the best way to learn technology is by building real-world projects, experimenting with different approaches, and continuously improving through challenges and mistakes. Over the course of my academic and personal development journey, I have explored multiple programming languages and technologies including Python, Java, JavaScript, C, SQL, React, Next.js, Django, FastAPI, Node.js, .NET, MongoDB, MySQL, PostgreSQL, Git, GitHub, and various AI and machine learning tools and libraries. I particularly enjoy working on applications that combine frontend, backend, databases, APIs, and intelligent features into a complete working system. My interest in artificial intelligence has also encouraged me to explore AI-powered applications, large language models, AI agents, conversational interfaces, and frameworks such as LangGraph, with the goal of understanding how AI can be integrated into traditional software systems to make applications smarter, more useful, and easier to interact with. I have worked on a variety of projects, ranging from management systems and desktop applications to full-stack and AI-integrated applications, which have helped me develop a practical understanding of software development and taught me how different technologies come together to solve real-world problems. One of the projects I am particularly proud of is a college ERP system that I developed as part of my academic project work and later presented at the Technophalia Technical Project Expo 2026, where the project received First Prize. Experiences like these have helped me improve not only my technical skills but also my ability to present ideas, understand requirements, work through problems, and communicate technical concepts. I enjoy solving programming problems and approaching challenges logically, and I am always curious about how things work behind the scenes rather than simply learning how to use them. When I come across a new technology, framework, or concept, I prefer to understand its purpose, advantages, limitations, and practical applications before trying to implement it in a project. I consider myself a continuous learner who is always looking for opportunities to improve my programming fundamentals, problem-solving abilities, development practices, and understanding of modern software engineering. I am especially interested in becoming a strong software engineer with the ability to design, develop, debug, and maintain complete applications while continuously adapting to new technologies and industry trends. I believe that programming is not just about writing code but about understanding problems, designing efficient solutions, learning from failures, and creating software that provides real value to its users. My GitHub is a reflection of this learning journey, containing projects, experiments, and implementations that represent the technologies and concepts I have explored over time. I am always open to learning from other developers, collaborating on interesting projects, contributing to open-source work, participating in technical challenges and hackathons, and connecting with people who share an interest in technology and innovation. My ultimate goal is to keep growing as a developer, gain experience by working on meaningful and challenging projects, strengthen my understanding of software engineering and system design, and eventually contribute to building reliable, scalable, intelligent, and user-focused software solutions. I believe in continuously learning, staying curious, accepting challenges, and improving with every project, because every bug, every difficult problem, and every new technology is another opportunity to become a better developer and a better engineer.
 
-*   🌍  I'm based in Uttar Pradesh, India
-*   ✉️  You can contact me at [itzharshitmavi@gmail.com](mailto:itzharshitmavi@gmail.com)
-*   🧠  currently, I am focused on strengthening my skills in full-stack software development and artificial intelligence while building practical projects to improve my understanding of real-world application development. I am exploring modern frontend development with React and Next.js, backend development using Python, FastAPI, and Django, along with REST API design, database management, and scalable application architecture. At the same time, I am diving deeper into AI-powered application development, large language models, AI agents, prompt engineering, LangGraph, and the integration of AI capabilities into traditional software systems. I am also continuously improving my problem-solving and programming fundamentals, learning more about system design, software architecture, DevOps, cloud technologies, and best practices for writing clean, efficient, maintainable, and production-ready code. My current approach is highly project-oriented, so I try to learn new concepts by implementing them in real applications, experimenting with different technologies, debugging problems, and understanding how everything works together as a complete system.
-*   👥  I'm looking to collaborate on Full-stack web applications, AI-powered projects, open-source contributions, innovative software solutions, developer tools, automation projects, college/student projects, hackathons, and projects involving modern technologies such as React, Next.js, Python, FastAPI, Django, Node.js, databases, and AI/LLM integrations. I'm also interested in collaborating with developers and students who enjoy learning, experimenting with new technologies, solving real-world problems, and building meaningful projects together.
-*   💬  Ask me about I write code, create bugs, fix bugs, create new bugs while fixing the old ones, and somehow call it software development. 🚀😂
+I'm a Computer Science and Engineering student passionate about **full-stack development, artificial intelligence, and building practical software solutions**.
+
+I enjoy turning ideas into working applications and learning by actually building things. My development journey has involved working with frontend technologies, backend frameworks, databases, APIs, desktop applications, and AI-powered systems.
+
+I have experience exploring technologies such as **Python, Java, JavaScript, C, SQL, React, Next.js, Django, FastAPI, Node.js, .NET, MongoDB, MySQL, PostgreSQL, Git, GitHub, and AI/ML libraries**.
+
+I'm particularly interested in applications that combine **frontend + backend + databases + APIs + AI** into complete systems. Recently, I've been exploring **LLMs, AI agents, conversational interfaces, prompt engineering, and LangGraph**, and I'm interested in understanding how AI can be integrated into traditional software applications.
+
+I have worked on several academic and personal projects, including management systems, desktop applications, full-stack applications, and AI-integrated applications. One of my proudest achievements was presenting my **College ERP project at Technophalia Technical Project Expo 2026**, where the project received **First Prize** 🏆.
+
+I enjoy solving programming problems, debugging applications, experimenting with new technologies, and understanding how things work behind the scenes.
+
+I believe that becoming a good developer is not just about writing code. It's about **understanding problems, designing solutions, debugging failures, learning continuously, and building software that provides real value**.
+
+My GitHub is a reflection of that journey — projects, experiments, learning, and occasionally a few bugs that somehow become features. 😄
+
+---
+
+## 🌱 Currently Learning
+
+* Full-Stack Software Development
+* React & Next.js
+* Python, FastAPI & Django
+* REST API Development
+* Database Design & Management
+* AI/LLM Application Development
+* AI Agents & LangGraph
+* Prompt Engineering
+* Software Architecture
+* System Design
+* DevOps & Cloud Technologies
+* Clean & Maintainable Code
+
+I prefer learning through **real projects**, experimentation, debugging, and understanding concepts rather than simply following tutorials.
+
+---
+
+## 🤝 I'm Open to Collaborating On
+
+* 🌐 Full-Stack Web Applications
+* 🤖 AI-Powered Applications
+* 🧠 LLM & AI Agent Projects
+* 🔓 Open-Source Projects
+* ⚙️ Developer Tools
+* 🔄 Automation Projects
+* 🎓 Student & College Projects
+* 🏆 Hackathon Projects
+* 🚀 Innovative Software Solutions
+
+If you're also someone who enjoys learning, experimenting, and building things, feel free to connect!
+
+---
+
+## 💬 Ask Me About
+
+**Python • Java • JavaScript • React • Next.js • FastAPI • Django • Node.js • SQL • MongoDB • PostgreSQL • AI/LLMs • Git/GitHub • Full-Stack Development**
+
+And yes...
+
+> I write code, create bugs, fix bugs, create new bugs while fixing the old ones, and somehow call it software development. 🚀😂
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="Nuxtjs" title="Nuxtjs" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a>
-                  </p>
-                  
+<a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="45"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>
+</p>
 
-  ### Socials
-                
-<p align="left"> 
-<a href="https://www.github.com/itzharshitmavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> 
-<a href="https://www.x.com/itzharshitmavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@gurjar_harshit_seena" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/itzharshitmavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/itzharshitmavi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/itzharshitmavi" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/itzharshitmavi?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a><a href="https://www.x.com/itzharshitmavi" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/twitter/follow/itzharshitmavi?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000"
-              /></a>
+### 🎨 Frontend
 
-### Badges
+<p align="left">
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>
+<a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" width="45"/></a>
+</p>
 
-<b>My GitHub Stats</b>
+### ⚙️ Backend
 
-<a href="http://www.github.com/itzharshitmavi"><img src="https://github-readme-stats.vercel.app/api?username=itzharshitmavi&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&show_icons=true" alt="itzharshitmavi's GitHub stats" /></a>
+<p align="left">
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="45"/></a>
+<a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" width="45"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="45"/></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="45"/></a>
+</p>
 
-<a href="http://www.github.com/itzharshitmavi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=itzharshitmavi&stroke=0f172a&background=000000&ring=ffffff&fire=ffffff&currStreakNum=0f172a&currStreakLabel=ffffff&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+### 🗄️ Databases
 
-<a href="https://github.com/itzharshitmavi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzharshitmavi&langs_count=2&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45"/></a>
+</p>
 
-<b>Top Repositories</b>
+### 🤖 AI / Machine Learning
 
-<div width="100%" align="center"><a href="https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/itzharshitmavi/College-ERP" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/College-ERP&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left">
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/></a>
+</p>
 
-<br /><br /><br /><br /><br />
+### ☁️ Tools & Technologies
 
-<div width="100%" align="center"><a href="https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses&title_color=ffffff&text_color=0f172a&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45"/></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="45"/></a>
+</p>
 
-### Support Me
+---
 
-<ul style="list-style-type: none; margin: 0;">
+# 🌐 Connect With Me
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/itzharshitmavi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-</ul>
+<p align="left">
+
+<a href="https://github.com/itzharshitmavi">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/in/itzharshitmavi">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:itzharshitmavi@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/>
+</a>
+
+<a href="https://www.threads.net/@gurjar_harshit_seena">
+<img src="https://img.icons8.com/fluency/48/threads.png" width="45"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itzharshitmavi&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" />
+
+<img width="49%" src="https://streak-stats.vercel.app?user=itzharshitmavi&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzharshitmavi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=itzharshitmavi&show_icons=true&hide=issues&hide_border=true&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itzharshitmavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/itzharshitmavi/College-ERP">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=College-ERP&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/itzharshitmavi/awsome-LLM-model-apps-for-daily-uses">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=itzharshitmavi&repo=awsome-LLM-model-apps-for-daily-uses&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+### 🥇 First Prize — Technophalia Technical Project Expo 2026
+
+Presented my **College ERP Project** at the technical project exhibition and secured **First Prize** among participating projects.
+
+---
+
+# 📈 My Development Journey
+
+```text
+Learning
+   ↓
+Building
+   ↓
+Breaking Things 😅
+   ↓
+Debugging
+   ↓
+Learning More
+   ↓
+Building Better
+   ↓
+Repeat 🔁
+```
+
+---
+
+# ☕ Support My Work
+
+If you find my projects useful or interesting, consider giving them a ⭐ on GitHub!
+
+<p align="center">
+
+<a href="https://www.buymeacoffee.com/itzharshitmavi">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Debugging 🚀**
+
+</p>
